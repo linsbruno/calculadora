@@ -1,0 +1,28 @@
+td{
+    padding-right: 30px;
+}
+
+.abaixo-peso {
+    background-color: #ffff00; 
+    }
+
+.peso-ideal {
+    background-color: #08d808;
+    }
+
+.sobrepeso {
+    background-color: #ffa500;
+    }
+
+.obesidade-grau-1 {
+    background-color: #ff0000;
+}
+
+.obesidade-grau-2 {
+    background-color: #a52a2a;
+}
+
+.obesidade-grau-3 {
+    background-color: #000000;
+    color: #ffffff;
+}
